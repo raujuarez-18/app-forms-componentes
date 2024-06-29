@@ -3,4 +3,4 @@ from controller.ComboCascadaController import ComboCascadaController
 from controller.ComboSimpleController import CombSimpleCascadaController
 from controller.MayoryMenorController import MayoryMenorController
 
-formulario = CalculadoraController()
+formulario = MayoryMenorController()
